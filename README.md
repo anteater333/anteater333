@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Plz visit my blog https://anteater333.github.io/Anteater_lab_v2/  
+사실 한국어만 쓰는 블로그라 이렇게 말할 필요도 없
+
 <!--
 **anteater333/anteater333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
