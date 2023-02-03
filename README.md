@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Plz visit my blog https://anteater333.github.io/
-사실 한국어만 쓰는 블로그라 이렇게 말할 필요도 없
+Plz visit my blog https://blog.anteater-lab.link/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anteater333)](https://solved.ac/anteater333/)
 
