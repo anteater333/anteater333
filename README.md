@@ -12,7 +12,7 @@ Plz visit my blog https://blog.anteater-lab.link/
 
 <p align=center>
   <a href="https://www.buymeacoffee.com/anteater333"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a potion&emoji=&slug=anteater333&button_colour=3c2a1e&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-</p
+</p>
 
 <!--
 **anteater333/anteater333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
