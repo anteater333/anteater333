@@ -1,13 +1,23 @@
 ### Hi there 👋
 
-Plz visit my blog https://blog.anteater-lab.link/
-
-https://blog.anteater-lab.link/portfolio/
-
+<p align=center>
+  <a href="https://blog.anteater-lab.link/portfolio/">
+    <img src="https://i.postimg.cc/zBYRK2cH/me-asset-char-small.png"/>
+  </a>
+</p>
 
 <p align=center>
   <a href="https://solved.ac/anteater333/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anteater333" />
+  </a>
+</p>
+
+---
+
+<p align=center>Plz visit my blog</p>
+<p align=center>
+  <a href="https://blog.anteater-lab.link/">
+    <img src="https://i.postimg.cc/nL9npHTq/blog-logo-1.png"/>
   </a>
 </p>
 
